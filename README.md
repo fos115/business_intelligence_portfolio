@@ -67,4 +67,31 @@ These BI projects have contributed to significant business improvements, includi
 
 ## 🔮 Future Work
 
-I'm continuously expanding my BI skills and ex
+I'm continuously expanding my BI skills and exploring new technologies. Some areas I'm focusing on for future projects include:
+
+- Implementing machine learning models for more advanced predictive analytics
+- Exploring real-time BI solutions for instant decision-making
+- Developing natural language processing interfaces for BI tools
+- Integrating IoT data into BI dashboards for manufacturing and operations analytics
+
+## 🤝 Contributing
+
+While these projects are primarily for showcasing my work, I'm open to collaborations and improvements. If you have suggestions or want to contribute:
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📬 Contact
+
+Fuad O. - [fos115@icloud.com](mailto:fos115@icloud.com)
+
+LinkedIn: [https://www.linkedin.com/in/fuad-os](https://www.linkedin.com/in/fuad-os)
+
+Project Link: [https://github.com/yourusername/business-intelligence-projects](https://github.com/yourusername/business-intelligence-projects)
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
