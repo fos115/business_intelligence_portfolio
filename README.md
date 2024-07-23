@@ -56,7 +56,7 @@ Each project directory contains its own README with specific setup instructions.
    ```
 3. Follow the project-specific README for setup and access instructions.
 
-## 📈 Impact and Insights
+## 📈 Impact and Insights (Hypothetical)
 
 These BI projects have contributed to significant business improvements, including:
 
