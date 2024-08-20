@@ -1,0 +1,11 @@
+customer_id,name,email,registration_date
+1,John Doe,john.doe@email.com,2023-01-15
+2,Jane Smith,jane.smith@email.com,2023-02-20
+3,Bob Johnson,bob.johnson@email.com,2023-03-10
+4,Alice Brown,alice.brown@email.com,2023-04-05
+5,Charlie Davis,charlie.davis@email.com,2023-05-12
+6,Eva Wilson,eva.wilson@email.com,2023-06-18
+7,Frank Miller,frank.miller@email.com,2023-07-22
+8,Grace Lee,grace.lee@email.com,2023-08-30
+9,Henry Taylor,henry.taylor@email.com,2023-09-14
+10,Ivy Chen,ivy.chen@email.com,2023-10-25
